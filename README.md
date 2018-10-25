@@ -1,1 +1,50 @@
 # [Joel Grus](https://github.com/joelgrus) "Data Science from Scratch"
+
+
+Chapter 1 Introduction
+
+Chapter 2 A Crash Course in Python
+
+Chapter 4 Linear Algebra
+
+Chapter 5 Statistics
+
+Chapter 6 Probability
+
+Chapter 7 Hypothesis and Inference
+
+Chapter 8 Gradient Descent
+
+Chapter 9 Getting Data
+
+Chapter 10 Working with Data
+
+Chapter 11 Machine Learning
+
+Chapter 12 k-Nearest Neighbors
+
+Chapter 13 Naive Bayes
+
+Chapter 14 Simple Linear Regression
+
+Chapter 15 Multiple Regression
+
+Chapter 16 Logistic Regression
+
+Chapter 17 Decision Trees
+
+Chapter 18 Neural Networks
+
+Chapter 19 Clustering
+
+Chapter 20 Natural Language Processing
+
+Chapter 21 Network Analysis
+
+Chapter 22 Recommender Systems
+
+Chapter 23 Databases and SQL
+
+Chapter 24 MapReduce
+
+Chapter 25 Go Forth and Do Data Science
