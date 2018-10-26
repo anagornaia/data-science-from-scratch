@@ -5,6 +5,8 @@
 
 Chapter 2 A Crash Course in Python
 
+Chapter 3 Visualizing Data
+
 Chapter 4 Linear Algebra
 
 Chapter 5 Statistics
