@@ -7,7 +7,7 @@ Chapter 2 A Crash Course in Python
 
 [Chapter 3 Visualizing Data](https://github.com/anagornaia/data-science-from-scratch/blob/master/Chapter%203.%20Visualizing%20Data.ipynb)
 
-Chapter 4 Linear Algebra
+[Chapter 4 Linear Algebra](https://github.com/anagornaia/data-science-from-scratch/blob/master/Chapter%204.%20Linear%20Algebra.ipynb)
 
 Chapter 5 Statistics
 
