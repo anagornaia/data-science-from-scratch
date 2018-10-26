@@ -1,7 +1,7 @@
 # [Joel Grus](https://github.com/joelgrus) "Data Science from Scratch"
 
 
-Chapter 1 Introduction
+[Chapter 1 Introduction](Chapter 1. Introduction.ipynb)
 
 Chapter 2 A Crash Course in Python
 
