@@ -9,7 +9,7 @@ Chapter 2 A Crash Course in Python
 
 [Chapter 4 Linear Algebra](https://github.com/anagornaia/data-science-from-scratch/blob/master/Chapter%204.%20Linear%20Algebra.ipynb)
 
-Chapter 5 Statistics
+[Chapter 5 Statistics](https://github.com/anagornaia/data-science-from-scratch/blob/master/Chapter%205.%20Statistics.ipynb)
 
 Chapter 6 Probability
 
